@@ -1,3 +1,11 @@
+import os
+
+def read_readme():
+    if os.path.exists("README.md"):
+        with open("README.md", "r", encoding="utf-8") as f:
+            return f.read()
+    return "Global Macro Data package"
+
 from setuptools import setup, find_packages
 
 setup(
