@@ -21,7 +21,8 @@ This repository complements paper, **Müller, Xu, Lehbib, and Chen (2025)**, whi
 - **Harmonized Data**: Resolves inconsistencies and splices all available data together.
 - **Scheduled Updates**: Regular releases ensure data reliability.
 - **Full Transparency**: All code is open source and available in this repository.
-- **Accessible Formats**: Provided in `.dta`, `.csv` and as **Stata/Python package**.
+- **Accessible Formats**: Provided in `.dta`, `.csv` and as **<a href="https://github.com/KMueller-Lab/Global-Macro-Database" target="_blank" rel="noopener noreferrer">Stata</a>
+/<a href="https://github.com/Yangbo-Wang/global_macro_data_python" target="_blank" rel="noopener noreferrer">Python</a>/<a href="https://github.com/Yangbo-Wang/global_macro_data_R" target="_blank" rel="noopener noreferrer">R</a> package**.
 
 ## Data access
 
