@@ -21,7 +21,7 @@ This repository complements our paper, **Müller, Xu, Lehbib, and Chen (2025)**,
 - **Harmonized Data**: Resolves inconsistencies and splices all available data together.
 - **Scheduled Updates**: Regular releases ensure data reliability.
 - **Full Transparency**: All code is open source and available in this repository.
-- **Accessible Formats**: Provided in `.dta`, `.csv`, `.xlsx`and as **Stata/Python package**.
+- **Accessible Formats**: Provided in `.dta`, `.csv` and as **Stata/Python package**.
 
 ## Data access
 
@@ -45,7 +45,6 @@ df = gmd.get_data(start_year=2000, end_year=2010, ISO3=['USA','FRA','DEU','CHN']
 - **end_year (int)**: Filter data up to this ending year (inclusive).
 - **country (str, list, or comma-separated string)**: Filter data by country name(s).
 - **ISO3 (str or list)**: Filter data by ISO3 country code(s).
-- **format (str)**: Data format, either 'csv' or 'xlsx'.
 
 ## Release schedule 
 
